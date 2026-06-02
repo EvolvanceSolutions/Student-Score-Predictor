@@ -4,7 +4,8 @@ A custom neural network from scratch using NumPy Forward propagation Backpropaga
 
  A feedforward neural network built with pure NumPy (no TensorFlow, no PyTorch) that predicts a student's exam score and flags at-risk students before exam day.
 
----
+---<img width="1155" height="905" alt="image" src="https://github.com/user-attachments/assets/554691b1-5ec8-4785-9655-a0bc8d93be48" />
+
 
 ## 📌 Overview
 
